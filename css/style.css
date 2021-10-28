@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    border: 1px solid black;
+}
+
+#p {
+    text-align: center;
+    border: 10px solid red;
+}
+
+#paragraph {
+    color: blue;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-green {
+    color: green;
+}
